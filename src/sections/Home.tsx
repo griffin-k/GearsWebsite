@@ -9,6 +9,7 @@ import About from '../components/About';
 import LeadershipTeam from '../components/LeadershipTeam';
 import Footer from '../components/Footer';
 import FloatingChatIcon from '../components/FloatingChatIcon';
+import OurProjects from './OurProjects';
 
 
 

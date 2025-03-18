@@ -23,10 +23,10 @@ const Navbar: React.FC = React.memo(() => {
             <a href="#home" className="text-lg text-gray-100 hover:text-white transition ease-in-out duration-300" aria-label="Home">
               Home
             </a>
-            <a href="#about" className="text-lg text-gray-100 hover:text-white transition ease-in-out duration-300" aria-label="About Us">
+            <a href="/AboutUs" className="text-lg text-gray-100 hover:text-white transition ease-in-out duration-300" aria-label="About Us">
               About Us
             </a>
-            <a href="#projects" className="text-lg text-gray-100 hover:text-white transition ease-in-out duration-300" aria-label="Projects">
+            <a href="/projects" className="text-lg text-gray-100 hover:text-white transition ease-in-out duration-300" aria-label="Projects">
               Projects
             </a>
             <a href="https://wa.me/923068845435?text=Hello%20GEARS!%20I%20have%20a%20query." className="text-lg text-gray-100 hover:text-white transition ease-in-out duration-300" aria-label="Contact">
